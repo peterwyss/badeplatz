@@ -19,5 +19,6 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/Hallo.md
 - content/Versuch.md
 - content/_index.md
