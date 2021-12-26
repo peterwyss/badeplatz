@@ -1,4 +1,9 @@
 ---
 label: template
 hide_body: false
-fields: []
+fields:
+- name: gallery
+  type: file
+  config:
+    maxSize: 64
+  label: gallery
