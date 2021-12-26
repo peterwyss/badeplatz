@@ -7,3 +7,5 @@ fields:
   config:
     maxSize: 64
   label: gallery
+pages:
+- content/bild.md
