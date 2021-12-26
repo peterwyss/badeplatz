@@ -8,5 +8,6 @@ fields:
     required: false
   label: Test
   description: Das ist ein Test.
+  hidden: true
 pages:
 - content/_index.md
