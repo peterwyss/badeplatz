@@ -9,6 +9,15 @@ fields:
   label: Test
   description: Das ist ein Test.
   hidden: false
+- name: date
+  type: datetime
+  label: Date
+  description: test
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/Versuch.md
 - content/_index.md
