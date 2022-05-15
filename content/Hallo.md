@@ -1,7 +1,7 @@
 +++
 date = ""
 draft = true
-test = ""
+test = "Genau!"
 [menu.main]
 name = "Hallo"
 weight = 2
