@@ -1,6 +1,7 @@
 +++
 date = ""
 test = "Ich checke das wirklich nicht. Nicht wirklich!"
+title = "Homepage"
 [menu.main]
 weight = 1
 
