@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 test = "Genau!"
 title = "Hallo!"
 [menu.main]
